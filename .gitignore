@@ -1,6 +1,13 @@
 # Some unnecessary directories
 media/
 
+# Some unnecessary files
+*.aux
+*.dvi
+*.log
+*.svg
+*.tex
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
