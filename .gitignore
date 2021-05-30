@@ -1,5 +1,9 @@
 # Some unnecessary directories
 media/
+euler_tv/media
+euler_tv/__pycache__/
+tutorial/media/
+tutorial/__pychache__/
 
 # Some unnecessary files
 *.aux
