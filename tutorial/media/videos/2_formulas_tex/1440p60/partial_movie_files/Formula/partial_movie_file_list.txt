@@ -1,1 +1,0 @@
-file 'file:C:/manim/tutorial/media/videos/2_formulas_tex/1440p60/partial_movie_files/Formula/00000.mp4'
